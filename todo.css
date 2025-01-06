@@ -64,7 +64,7 @@ button:hover {
 
 @media only screen and (max-width: 768px) {
     main {
-        padding: 1em;
+        padding: 10em;
     }
     input[type="text"] {
         width: 90%;
